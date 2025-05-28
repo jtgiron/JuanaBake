@@ -1,1 +1,16 @@
 @import "tailwindcss";
+
+
+:root {
+    --color-primary: #00847e;
+    --color-secondary: #189690;
+    --color-tertiary: #31a9a2;
+    --color-quarter: #49bbb4;
+    --color-fifth: #61cdc6;
+    --radius-primary: 33% 67% 70% 30% / 57% 30% 70% 43% ;
+}
+
+* {
+    font-family: Montserrat, Rubik, sans-serif;
+}
+

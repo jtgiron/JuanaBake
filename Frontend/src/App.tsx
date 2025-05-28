@@ -1,11 +1,11 @@
+import Inicio from "./components/Inicio";
+
 
 function App() {
 
   return (
     <>
-      <div>
-        
-      </div>
+      <Inicio />
     </>
 )
 }
